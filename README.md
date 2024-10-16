@@ -4,33 +4,34 @@ Guess the Word is an interactive word-guessing game implemented in Java using Ja
 
 FEATURES
 
-Interactive Gameplay: Players can start new games and make guesses through a user-friendly interface.
+- Interactive Gameplay: Players can start new games and make guesses through a user-friendly interface.
 
-Masked Words: Players see a masked version of the target word, with only the first and last letters visible, and the remaining letters represented by question marks (?).
+- Masked Words: Players see a masked version of the target word, with only the first and last letters visible, and the remaining letters represented by question marks (?).
 
-Difficulty Levels: Choose from three difficulty levels (Standard, Mid, Max) that determine the length of the words presented (5, 6, or 7 letters).
+- Difficulty Levels: Choose from three difficulty levels (Standard, Mid, Max) that determine the length of the words presented (5, 6, or 7 letters).
 
-Scoring System: Earn points for correct guesses based on the number of remaining hidden letters. Incorrect guesses reveal letters, providing hints to aid players.
+- Scoring System: Earn points for correct guesses based on the number of remaining hidden letters. Incorrect guesses reveal letters, providing hints to aid players.
 
-User Performance Tracking: The game tracks the player’s points and ability scores, allowing users to monitor their progress over time.
+- User Performance Tracking: The game tracks the player’s points and ability scores, allowing users to monitor their progress over time.
 
-Educational Value: A fun and engaging way to build vocabulary and improve language skills.
+- Educational Value: A fun and engaging way to build vocabulary and improve language skills.
 
 HOW TO PLAY
 
-Start a new game by clicking the "New Game" button.
+- Start a new game by clicking the "New Game" button.
 
-Read the definition provided and guess the word by typing it into the input field.
+- Read the definition provided and guess the word by typing it into the input field.
 
-Use the "New Word" button to request a new word if needed.
+- Use the "New Word" button to request a new word if needed.
 
-Track your points and ability scores as you progress through the game.
+- Track your points and ability scores as you progress through the game.
 
 TECHNOLOGIES USED
 
-Java
+- Java (v 10)
 
-JavaFX
+- JavaFX
 
 LICENSE
+
 This project is licensed under the MIT License. See the LICENSE file for details.
